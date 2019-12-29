@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+section {
+  border: none !important;
+}
+
+header, footer {
+  display: none !important;
+}
