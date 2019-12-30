@@ -9,4 +9,4 @@ Det här är all information vi samlar in:
 Informationen som hör till burkar tas bort så fort burkarna blir markerade för upphämtning.
 All annan information tas bort om du tar bort ditt konto.
 Om du tar bort ditt konto, ligger alla burkar du lagt ut kvar.
-Om du har fler frågor, eller vill begära ut en kopia på datan vi lagrar om dig, kontakta [support](support.html).
+Ifall du har fler frågor, eller vill begära ut en kopia på datan vi lagrar om dig, kontakta [support](support.html).
