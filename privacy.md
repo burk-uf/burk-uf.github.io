@@ -1,7 +1,7 @@
 # Integritetspolicy
 
 Vi på Burk UF värnar om allas privatliv. Därför samlar vi inte in någon info som inte behövs för att appen ska fungera.
-Det här är all information vi samlar in.
+Det här är all information vi samlar in:
 * Plats / address för alla burkar du har lagt ut
 * Användarnamn samt email
 * Ett unikt id för din telefon
