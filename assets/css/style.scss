@@ -18,6 +18,10 @@ header, footer {
   display: none !important;
 }
 
-a, h1 {
+a, a:hover, a:focus {
+  color: $accent;
+}
+
+h1 {
   color: $accent;
 }
