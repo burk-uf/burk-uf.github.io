@@ -4,6 +4,10 @@
 @import "jekyll-theme-minimal";
 $accent: #0f7770;
 
+body {
+  color: #444;
+}
+
 section {
   border: none !important;
   width: unset !important;
