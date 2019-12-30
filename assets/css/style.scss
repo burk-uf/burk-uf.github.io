@@ -2,6 +2,7 @@
 ---
 
 @import "jekyll-theme-minimal";
+$accent: #0f7770;
 
 section {
   border: none !important;
@@ -11,4 +12,8 @@ section {
 
 header, footer {
   display: none !important;
+}
+
+a, h1 {
+  color: $accent;
 }
